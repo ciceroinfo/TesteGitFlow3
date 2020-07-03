@@ -1,9 +1,5 @@
 TesteGitFlow3
-Correção de bug
-<<<<<<< develop
+Correcao de bug
+fb1 1 2
 fb3 1 2
 fb2 1
-fb1 1
-=======
-fb1 1
->>>>>>> fb1 1
